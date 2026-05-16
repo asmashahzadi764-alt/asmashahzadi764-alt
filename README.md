@@ -58,8 +58,8 @@ I like exploring new technologies and building things from scratch to understand
 | Goal | Status |
 |------|--------|
 | 💪 Become confident in frontend development | 🔄 In Progress |
-| ⚡ Learn JavaScript | 📅 In Progress |
-| 🌐 Learn modern frontend libraries (React etc.) | 📅 In Progress |
+| ⚡ Learn JavaScript | 🔄 In Progress |
+| 🌐 Learn modern frontend libraries (React etc.) | 🔄 In Progress |
 | 🏗️ Build real-world projects | 📅 Planned |
 | 🤝 Contribute to open-source | 📅 Planned |
 
