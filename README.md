@@ -148,12 +148,12 @@ My goal is to become a **Software Engineer** specializing in modern web developm
 | JavaScript (ES6+) | ✅ |
 | DOM Manipulation | ✅ |
 | Git & GitHub | ✅ |
-| React | 🔄 In Progress |
-| Django | 🔄 In Progress |
-| REST APIs | 🔄 In Progress |
+| Django | ✅ |
 | SQL | ✅ |
+| React | 🔄 In Progress |
+| REST APIs | 🔄 In Progress |
+| Next.js | 🔄 In Progress |
 | TypeScript | 📅 Planned |
-| Next.js | 📅 Planned |
 | Node.js | 📅 Planned |
 | Express.js | 📅 Planned |
 
