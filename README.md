@@ -81,7 +81,6 @@ My goal is to become a **Software Engineer** specializing in modern web developm
 | 🍽️ **Restaurant Website** | Django-based responsive restaurant website with menu, services, testimonials, and contact page. |
 | 🤖 **IBA Sukkur AI Chatbot** | AI-powered chatbot using FastAPI, FAISS, Hugging Face Embeddings, and Groq LLM. |
 | ✅ **TaskFlow Todo App** | Full-stack task management application with Express backend and modern frontend. |
-| 💱 **Foreign Exchange Checker** | Currency exchange checking application with API integration. |
 | 🏥 **Family Medical & Dental Care** | Responsive healthcare website built using HTML, CSS, and JavaScript. |
 | 📚 **JavaScript Concepts & Practice** | Comprehensive JavaScript learning repository covering DOM, ES6, Higher Order Functions, Async JavaScript, Fetch API, and more. |
 
@@ -153,7 +152,7 @@ My goal is to become a **Software Engineer** specializing in modern web developm
 | React | 🔄 In Progress |
 | REST APIs | 🔄 In Progress |
 | Next.js | 🔄 In Progress |
-| TypeScript | 📅 Planned |
+| TypeScript | 🔄 In Progress |
 | Node.js | 📅 Planned |
 | Express.js | 📅 Planned |
 
