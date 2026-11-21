@@ -22,7 +22,7 @@
 
 # 👩‍💻 About Me
 
-Hi! I'm **Asma Shahzadi**, a **Full Stack Developer with AI integration** and a final-year **BS Information Technology** student at **Women University Multan** (2023–2027), based in Mailsi, Punjab, Pakistan.
+Hi! I'm **Asma Shahzadi**, a **Full Stack Developer with AI integration** and a final-year **BS Information Technology** student at **Women University Multan** (2023–2027), Punjab, Pakistan.
 
 I build complete web applications, from React frontends to Node/Express and FastAPI backends, and add AI features such as RAG chatbots and LLM-powered agents. I also build websites for real local businesses, deployed live and indexed on Google.
 
